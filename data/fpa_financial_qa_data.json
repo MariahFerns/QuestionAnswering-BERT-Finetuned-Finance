@@ -1,0 +1,282 @@
+[
+    {
+        "id": "5785a2b9ef927f8b0f8c1254",
+        "title": "Citibank_Annual_Report_2023",
+        "context": "In the 2023 Annual Report, Citibank reported a net income of $15 billion, reflecting a 10% increase compared to the previous year. The bank also highlighted its efforts in digital transformation, reducing operational costs, and improving customer satisfaction scores.",
+        "question": "What was Citibank's net income in 2023?",
+        "answers": {
+            "text": [
+                "$15 billion"
+            ],
+            "answer_start": [
+                75
+            ]
+        }
+    },
+    {
+        "id": "5785a2b9ef927f8b0f8c1255",
+        "title": "Citibank_Quarterly_Earnings_Q1",
+        "context": "In Q1 2024, Citibank posted revenues of $19 billion, an 8% increase compared to the previous quarter. The earnings report highlighted strong performance in the corporate banking division and an increase in consumer deposits.",
+        "question": "What were Citibank's revenues in Q1 2024?",
+        "answers": {
+            "text": [
+                "$19 billion"
+            ],
+            "answer_start": [
+                57
+            ]
+        }
+    },
+    {
+        "id": "5785a2b9ef927f8b0f8c1256",
+        "title": "Citibank_Quarterly_Earnings_Q2",
+        "context": "Citibank's Q2 2024 earnings showed a net profit of $4 billion, a 5% increase year-over-year. The bank attributed this growth to improved loan performance and cost-cutting measures.",
+        "question": "What was Citibank's net profit in Q2 2024?",
+        "answers": {
+            "text": [
+                "$4 billion"
+            ],
+            "answer_start": [
+                58
+            ]
+        }
+    },
+    {
+        "id": "5785a2b9ef927f8b0f8c1257",
+        "title": "Citibank_Monthly_Report_April",
+        "context": "The April 2024 monthly report indicated that Citibank achieved sales of $6 billion, which was a 2% increase from the previous month. The report emphasized growth in the credit card segment and increased customer engagement through mobile banking platforms.",
+        "question": "What were Citibank's sales in April 2024?",
+        "answers": {
+            "text": [
+                "$6 billion"
+            ],
+            "answer_start": [
+                69
+            ]
+        }
+    },
+    {
+        "id": "5785a2b9ef927f8b0f8c1258",
+        "title": "Citibank_RoTCE",
+        "context": "For the fiscal year 2023, Citibank reported a Return on Tangible Common Equity (RoTCE) of 12%. This metric was bolstered by strong earnings in the investment banking sector and efficient capital management.",
+        "question": "What was Citibank's RoTCE in fiscal year 2023?",
+        "answers": {
+            "text": [
+                "12%"
+            ],
+            "answer_start": [
+                67
+            ]
+        }
+    },
+    {
+        "id": "5785a2b9ef927f8b0f8c1259",
+        "title": "Citibank_Annual_Report_2022",
+        "context": "In the 2022 Annual Report, Citibank announced a total revenue of $75 billion, marking a 6% increase year-on-year. The growth was primarily driven by increased lending activities and higher fee income from wealth management services.",
+        "question": "What was Citibank's total revenue in 2022?",
+        "answers": {
+            "text": [
+                "$75 billion"
+            ],
+            "answer_start": [
+                65
+            ]
+        }
+    },
+    {
+        "id": "5785a2b9ef927f8b0f8c1260",
+        "title": "Citibank_Quarterly_Earnings_Q3",
+        "context": "Citibank's Q3 2023 report showed earnings per share (EPS) of $1.50, which was an improvement from $1.35 in the previous quarter. The bank highlighted significant gains in its trading operations and a reduction in non-performing loans.",
+        "question": "What was Citibank's EPS in Q3 2023?",
+        "answers": {
+            "text": [
+                "$1.50"
+            ],
+            "answer_start": [
+                59
+            ]
+        }
+    },
+    {
+        "id": "5785a2b9ef927f8b0f8c1261",
+        "title": "Citibank_Monthly_Report_May",
+        "context": "The May 2024 monthly report detailed that Citibank's current month sales were $6.2 billion, slightly higher than April's $6 billion. The incremental growth was attributed to a surge in mortgage applications and personal loans.",
+        "question": "What were Citibank's sales in May 2024?",
+        "answers": {
+            "text": [
+                "$6.2 billion"
+            ],
+            "answer_start": [
+                67
+            ]
+        }
+    },
+    {
+        "id": "5785a2b9ef927f8b0f8c1262",
+        "title": "Citibank_YoY_Growth",
+        "context": "In 2023, Citibank experienced a year-on-year growth rate of 7% in its global consumer banking division. This growth was driven by higher spending on credit cards and expansion into new international markets.",
+        "question": "What was Citibank's YoY growth rate in global consumer banking in 2023?",
+        "answers": {
+            "text": [
+                "7%"
+            ],
+            "answer_start": [
+                42
+            ]
+        }
+    },
+    {
+        "id": "5785a2b9ef927f8b0f8c1263",
+        "title": "Citibank_Quarterly_Earnings_Q4",
+        "context": "The Q4 2023 earnings report revealed that Citibank's net interest margin (NIM) was 2.75%, up from 2.65% in Q3 2023. The increase was attributed to rising interest rates and strategic asset reallocation.",
+        "question": "What was Citibank's net interest margin in Q4 2023?",
+        "answers": {
+            "text": [
+                "2.75%"
+            ],
+            "answer_start": [
+                64
+            ]
+        }
+    },
+    {
+        "id": "5785a2b9ef927f8b0f8c1254",
+        "title": "Citibank_Annual_Report_2023",
+        "context": "In the 2023 Annual Report, Citibank reported a net income of $15 billion, reflecting a 10% increase compared to the previous year. The bank also highlighted its efforts in digital transformation, reducing operational costs, and improving customer satisfaction scores.",
+        "question": "What was the percentage increase in Citibank's net income in 2023?",
+        "answers": {
+            "text": [
+                "10%"
+            ],
+            "answer_start": [
+                98
+            ]
+        }
+    },
+    {
+        "id": "5785a2b9ef927f8b0f8c1255",
+        "title": "Citibank_Quarterly_Earnings_Q1",
+        "context": "In Q1 2024, Citibank posted revenues of $19 billion, an 8% increase compared to the previous quarter. The earnings report highlighted strong performance in the corporate banking division and an increase in consumer deposits.",
+        "question": "Which division showed strong performance in Citibank's Q1 2024 report?",
+        "answers": {
+            "text": [
+                "corporate banking"
+            ],
+            "answer_start": [
+                130
+            ]
+        }
+    },
+    {
+        "id": "5785a2b9ef927f8b0f8c1256",
+        "title": "Citibank_Quarterly_Earnings_Q2",
+        "context": "Citibank's Q2 2024 earnings showed a net profit of $4 billion, a 5% increase year-over-year. The bank attributed this growth to improved loan performance and cost-cutting measures.",
+        "question": "What factors contributed to Citibank's net profit growth in Q2 2024?",
+        "answers": {
+            "text": [
+                "improved loan performance and cost-cutting measures"
+            ],
+            "answer_start": [
+                91
+            ]
+        }
+    },
+    {
+        "id": "5785a2b9ef927f8b0f8c1257",
+        "title": "Citibank_Monthly_Report_April",
+        "context": "The April 2024 monthly report indicated that Citibank achieved sales of $6 billion, which was a 2% increase from the previous month. The report emphasized growth in the credit card segment and increased customer engagement through mobile banking platforms.",
+        "question": "Which segment showed growth in Citibank's April 2024 report?",
+        "answers": {
+            "text": [
+                "credit card segment"
+            ],
+            "answer_start": [
+                108
+            ]
+        }
+    },
+    {
+        "id": "5785a2b9ef927f8b0f8c1258",
+        "title": "Citibank_RoTCE",
+        "context": "For the fiscal year 2023, Citibank reported a Return on Tangible Common Equity (RoTCE) of 12%. This metric was bolstered by strong earnings in the investment banking sector and efficient capital management.",
+        "question": "What contributed to the rise in Citibank's RoTCE in 2023?",
+        "answers": {
+            "text": [
+                "strong earnings in the investment banking sector and efficient capital management"
+            ],
+            "answer_start": [
+                83
+            ]
+        }
+    },
+    {
+        "id": "5785a2b9ef927f8b0f8c1259",
+        "title": "Citibank_Annual_Report_2022",
+        "context": "In the 2022 Annual Report, Citibank announced a total revenue of $75 billion, marking a 6% increase year-on-year. The growth was primarily driven by increased lending activities and higher fee income from wealth management services.",
+        "question": "hat drove the growth in Citibank's total revenue in 2022?",
+        "answers": {
+            "text": [
+                "increased lending activities and higher fee income from wealth management services"
+            ],
+            "answer_start": [
+                107
+            ]
+        }
+    },
+    {
+        "id": "5785a2b9ef927f8b0f8c1260",
+        "title": "Citibank_Quarterly_Earnings_Q3",
+        "context": "Citibank's Q3 2023 report showed earnings per share (EPS) of $1.50, which was an improvement from $1.35 in the previous quarter. The bank highlighted significant gains in its trading operations and a reduction in non-performing loans.",
+        "question": "What did Citibank highlight as significant gains in its Q3 2023 report?",
+        "answers": {
+            "text": [
+                "gains in its trading operations and a reduction in non-performing loans"
+            ],
+            "answer_start": [
+                97
+            ]
+        }
+    },
+    {
+        "id": "5785a2b9ef927f8b0f8c1261",
+        "title": "Citibank_Monthly_Report_May",
+        "context": "The May 2024 monthly report detailed that Citibank's current month sales were $6.2 billion, slightly higher than April's $6 billion. The incremental growth was attributed to a surge in mortgage applications and personal loans.",
+        "question": "What factors led to the incremental growth in Citibank's sales in May 2024?",
+        "answers": {
+            "text": [
+                "a surge in mortgage applications and personal loans"
+            ],
+            "answer_start": [
+                100
+            ]
+        }
+    },
+    {
+        "id": "5785a2b9ef927f8b0f8c1262",
+        "title": "Citibank_YoY_Growth",
+        "context": "In 2023, Citibank experienced a year-on-year growth rate of 7% in its global consumer banking division. This growth was driven by higher spending on credit cards and expansion into new international markets.",
+        "question": "What was the percentage increase in Citibank's YoY growth rate in 2023?",
+        "answers": {
+            "text": [
+                "7%"
+            ],
+            "answer_start": [
+                42
+            ]
+        }
+    },
+    {
+        "id": "5785a2b9ef927f8b0f8c1263",
+        "title": "Citibank_Quarterly_Earnings_Q4",
+        "context": "The Q4 2023 earnings report revealed that Citibank's net interest margin (NIM) was 2.75%, up from 2.65% in Q3 2023. The increase was attributed to rising interest rates and strategic asset reallocation.",
+        "question": "What was the increase in Citibank's net interest margin from Q3 to Q4 2023?",
+        "answers": {
+            "text": [
+                "0.1%"
+            ],
+            "answer_start": [
+                61
+            ]
+        }
+    }
+]
