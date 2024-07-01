@@ -53,10 +53,7 @@ Additional data focused on financial information is used to further finetune the
 ## Folder Structure
 - `data/`: Contains the dataset files.
 - `notebooks/`: Jupyter notebooks for data analysis, text preprocessing, and model training.
-- `src/`: Python scripts for data processing, text preprocessing, and model training.
-- `api/`: Api code (if any).
-- `models/`: Trained models and saved results.
-- `results/`: Output files including visualizations, model evaluation metrics, and plots.
+- `docs/`: Output files including mlruns, visualizations, and plots.
 
 ## Installation and Usage
 1. **Clone the Repository**:
