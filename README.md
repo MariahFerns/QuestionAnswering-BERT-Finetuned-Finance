@@ -1,4 +1,4 @@
-# Finetuning BERT for Question Answering in Finance
+# ℹ️Finetuning BERT for Question Answering in Finance
 
 ###### [Open model in Hugging Face](https://huggingface.co/Mariah64/distilbert-base-uncased-finetuned-squad-v2) 🤗
 
@@ -50,13 +50,13 @@ Additional data focused on financial information is used to further finetune the
 - Create financial data from the company's financial reports in the same format as the SQuAD data for training and testing.
 - Fine-tune the model again on this financial data so that the model can answer questions frequently asked in the financial domain.
 
-## Results and Findings
-- The fine-tuned `distilbert-base-uncased` model showed promising results in question answering tasks.
-- Evaluation metrics indicated a high level of accuracy in the model's predictions.
-- The integration of financial data allowed the model to effectively answer domain-specific financial questions with accuracy.
-
-## Conclusion
-This project successfully developed a model capable of answering questions and generating new content to support the answers. The use of the SQuAD dataset and HuggingFace tools proved effective in training and evaluating the model. This system can be particularly useful in financial systems like banks where quick responses are required by the senior leadership. 
+## Folder Structure
+- `data/`: Contains the dataset files.
+- `notebooks/`: Jupyter notebooks for data analysis, text preprocessing, and model training.
+- `src/`: Python scripts for data processing, text preprocessing, and model training.
+- `api/`: Api code (if any).
+- `models/`: Trained models and saved results.
+- `results/`: Output files including visualizations, model evaluation metrics, and plots.
 
 ## Installation and Usage
 1. **Clone the Repository**:
@@ -64,3 +64,17 @@ This project successfully developed a model capable of answering questions and g
    git clone https://github.com/MariahFerns/QuestionAnswering-BERT-Finetuned-Finance.git
    cd QuestionAnswering-BERT-Finetuned-Finance
 
+2. Install the required libraries:
+   ```bash
+   pip install -r requirements.txt
+
+3. Run Jupyter Notebooks:
+   Navigate to the notebooks/ folder and open the notebooks to explore data analysis and model development.
+
+## Results and Findings
+- The fine-tuned `distilbert-base-uncased` model showed promising results in question answering tasks.
+- Evaluation metrics indicated a good level of accuracy ~ 67% in the model's predictions.
+- The integration of financial data allowed the model to effectively answer domain-specific financial questions with accuracy.
+
+## Conclusion
+This project successfully developed a model capable of answering questions specifically on financial data. The use of the SQuAD dataset and HuggingFace tools proved effective in training and evaluating the model. This system can be particularly useful in financial systems like banks where quick responses are required by the senior leadership. 
