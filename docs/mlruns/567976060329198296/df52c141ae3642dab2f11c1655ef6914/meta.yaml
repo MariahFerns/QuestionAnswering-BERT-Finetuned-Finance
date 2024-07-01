@@ -1,0 +1,15 @@
+artifact_uri: file:///kaggle/working/mlruns/567976060329198296/df52c141ae3642dab2f11c1655ef6914/artifacts
+end_time: 1717173018721
+entry_point_name: ''
+experiment_id: '567976060329198296'
+lifecycle_stage: active
+run_id: df52c141ae3642dab2f11c1655ef6914
+run_name: victorious-steed-624
+run_uuid: df52c141ae3642dab2f11c1655ef6914
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717172838873
+status: 3
+tags: []
+user_id: root
